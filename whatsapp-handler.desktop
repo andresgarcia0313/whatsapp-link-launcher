@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=WhatsApp Handler
+Exec=/usr/local/bin/whatsapp_handler.py %u
+Type=Application
+Terminal=false
+MimeType=x-scheme-handler/whatsapp;
+NoDisplay=true
