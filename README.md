@@ -9,7 +9,7 @@ El proyecto incluye un instalador Bash para configurar el script y los archivos 
 
 ## Requisitos
 
-- **Linux** (Compatible con todos los linus sin embargo se valido en distribución basadas en Debian, como Ubuntu)
+- **Linux** (Compatible con todos los Linux sin embargo se valido en distribución basadas en Debian, como Ubuntu)
 - **Python 3** instalado en el sistema
 - **xdg-open** (Generalmente preinstalado en sistemas Linux)
 - Acceso a Internet para abrir WhatsApp Web
